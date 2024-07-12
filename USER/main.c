@@ -10,7 +10,6 @@
 #include "Balance.h"
 #include <stdio.h>
 // STM32+XL8812
-// 刘世全
 // 2024.06.19 finish
 // 裸机主动均衡器
 
