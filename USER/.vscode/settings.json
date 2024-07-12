@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "balance.h": "c",
+        "ltc68041.h": "c",
+        "timer.h": "c"
+    }
+}

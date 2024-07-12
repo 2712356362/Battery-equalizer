@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ltc68041.h": "c",
+        "delay.h": "c",
+        "led.h": "c",
+        "timer.h": "c",
+        "balance.h": "c",
+        "stm32f10x_tim.h": "c",
+        "sys.h": "c",
+        "stm32f10x_gpio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
